@@ -26,10 +26,10 @@ https://github.com/tvd12?tab=repositories - Java Core
 https://github.com/tvd12/java-examples  
 https://jenkov.com/tutorials/java-concurrency/index.html  
 https://gpcoder.com/2406-co-che-upcasting-va-downcasting-trong-java/  
-https://viblo.asia/s/java-memory-management-performance-vElaB80m5kw
-https://viblo.asia/p/001-wora-jit-compiler-va-xxprintcompilation-gDVK2O3nZLj
-https://viblo.asia/p/yeu-to-nao-de-tro-thanh-global-software-engineer-E375zrYJ5GW
-https://github.com/vu-luong/java-is-awesome
+https://viblo.asia/s/java-memory-management-performance-vElaB80m5kw  
+https://viblo.asia/p/001-wora-jit-compiler-va-xxprintcompilation-gDVK2O3nZLj  
+https://viblo.asia/p/yeu-to-nao-de-tro-thanh-global-software-engineer-E375zrYJ5GW  
+https://github.com/vu-luong/java-is-awesome  
 https://github.com/abhisheksr01/spring-boot-microservice-best-practices
 
 
