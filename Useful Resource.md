@@ -2,7 +2,7 @@
 
 
 # Math
-https://machinelearningcoban.com/2018/10/03/conv2d - Blog ôn lại toán giải thích, xác suất, ma trận để sài cho Machine Learning + Deep Learning
+https://machinelearningcoban.com/2018/10/03/conv2d - Blog ôn lại toán giải tích, xác suất, ma trận để sài cho Machine Learning + Deep Learning
 
 # System Design
 https://www.giaosucan.com/2018/08/hieu-domain-design-theo-cach-ba-ao-part.html  
@@ -14,7 +14,7 @@ https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref
 https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=pd_bxgy_vft_none_img_sccl_2/140-4813636-6645336?pd_rd_w=oCtlL&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=020VJJ88E90DW6NZZY84&pd_rd_wg=L7qj1&pd_rd_r=cfc09084-cf85-4654-b033-eeaa4a654cff&pd_rd_i=1736049119&psc=1  
 https://medium.com/@lk.snatch/system-design-cache-with-java-impl-eba29b5739dc  
 https://medium.com/@lk.snatch/system-design-cache-eviction-policies-with-java-impl-37c1228e2b4f  
-**Focsus on two books: Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications.**  
+**Focus on two books: Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications.**  
 
 # Database
 https://blog.bytebytego.com/p/understanding-database-types  
@@ -26,11 +26,18 @@ https://github.com/tvd12?tab=repositories - Java Core
 https://github.com/tvd12/java-examples  
 https://jenkov.com/tutorials/java-concurrency/index.html  
 https://gpcoder.com/2406-co-che-upcasting-va-downcasting-trong-java/  
+https://viblo.asia/s/java-memory-management-performance-vElaB80m5kw
+https://viblo.asia/p/001-wora-jit-compiler-va-xxprintcompilation-gDVK2O3nZLj
+https://viblo.asia/p/yeu-to-nao-de-tro-thanh-global-software-engineer-E375zrYJ5GW
+https://github.com/vu-luong/java-is-awesome
+https://github.com/abhisheksr01/spring-boot-microservice-best-practices
+
 
 # Mixed everything
 https://github.com/boushphong?tab=repositories  - Data Streaming, Java Core, etc,...  
 https://github.com/VanTamNguyen?tab=repositories   
 https://github.com/tvd12?tab=repositories - Java Core  
+https://github.com/trimstray/the-book-of-secret-knowledge
 
 # Spring and Related things  
 https://github.com/mwangxx0129/HowTomcatWorks/blob/main/HowTomcatWorks.pdf  
