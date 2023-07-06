@@ -30,14 +30,20 @@ https://viblo.asia/s/java-memory-management-performance-vElaB80m5kw
 https://viblo.asia/p/001-wora-jit-compiler-va-xxprintcompilation-gDVK2O3nZLj  
 https://viblo.asia/p/yeu-to-nao-de-tro-thanh-global-software-engineer-E375zrYJ5GW  
 https://github.com/vu-luong/java-is-awesome  
-https://github.com/abhisheksr01/spring-boot-microservice-best-practices
+https://github.com/abhisheksr01/spring-boot-microservice-best-practices  
+https://dotnettutorials.net/lesson/parallel-programming-in-java/  
+https://www.youtube.com/watch?v=Hbp2zLIqmak&list=PLScF8do8T751dSyEHb2GrKuNz2FPBZ0Db
 
 
 # Mixed everything
 https://github.com/boushphong?tab=repositories  - Data Streaming, Java Core, etc,...  
 https://github.com/VanTamNguyen?tab=repositories   
 https://github.com/tvd12?tab=repositories - Java Core  
-https://github.com/trimstray/the-book-of-secret-knowledge
+https://github.com/trimstray/the-book-of-secret-knowledge  
+https://www.youtube.com/watch?v=pVlEWtPpZiY  
+https://12factor.net/  
+http://www.kieutrongkhanh.net/search/label/Docker
+
 
 # Spring and Related things  
 https://github.com/mwangxx0129/HowTomcatWorks/blob/main/HowTomcatWorks.pdf  
@@ -86,6 +92,6 @@ https://www.snowflake.com/en/
 https://redpanda.com/what-is-redpanda  
 https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_bxgy_vft_none_img_sccl_2/140-4813636-6645336?pd_rd_w=hi8G4&content-id=amzn1.sym.26a5c67f-1a3...  
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850  
-
-
+https://www.cit.ctu.edu.vn/~dtnghi/course.html  
+https://devera.vn/blog/page/3
 
